@@ -6,3 +6,4 @@ A collection of books or essays that I think it's worth to be read or shared wit
 * [China’s Great Cannon](https://citizenlab.org/2015/04/chinas-great-cannon/) - By CitizenLab
 * [Communicating Sequential Processes](http://usingcsp.com/cspbook.pdf) - By Tony Hoare
 * [The Architecture of Open Source Applications: Nginx](http://www.aosabook.org/en/nginx.htm) - By Andrew Alexeev
+* [Wireless Security Camera with the Arduino Yun](https://learn.adafruit.com/downloads/pdf/wireless-security-camera-arduino-yun.pdf) - By Marc-Olivier Schwartz
