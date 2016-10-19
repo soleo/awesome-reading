@@ -17,6 +17,7 @@ A collection of books or essays that I think it's worth to read or share with ot
 * [Complex information processing: a file structure for the complex, the changing and the indeterminate](http://rogerclarke.com/II/Nelson-1965.pdf) - By T.H. Nelson
 * [52 technologies in 2016](https://github.com/shekhargulati/52-technologies-in-2016) - By Shekhar Gulati
 * [The Twelve-Factor App](https://12factor.net/) - By Adam Wiggins
+* [Uncle Bob's Blogs](http://butunclebob.com/ArticleS.UncleBob) - By Robert C. Martin
 
 ## Contribution
 
