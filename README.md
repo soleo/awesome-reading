@@ -18,6 +18,7 @@ A collection of books or essays that I think it's worth to read or share with ot
 * [52 technologies in 2016](https://github.com/shekhargulati/52-technologies-in-2016) - By Shekhar Gulati
 * [The Twelve-Factor App](https://12factor.net/) - By Adam Wiggins
 * [Uncle Bob's Blogs](http://butunclebob.com/ArticleS.UncleBob) - By Robert C. Martin
+* [Growth: 全栈增长工程师指南](http://growth.phodal.com/) - By Phodal
 
 ## Contribution
 
