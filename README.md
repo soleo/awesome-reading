@@ -12,7 +12,7 @@ A collection of books or essays that I think it's worth to read or share with ot
 * [The Architecture of Open Source Applications: Nginx](http://www.aosabook.org/en/nginx.html) - By Andrew Alexeev
 * [Wireless Security Camera with the Arduino Yun](https://cdn-learn.adafruit.com/downloads/pdf/wireless-security-camera-arduino-yun.pdf) - By Marc-Olivier Schwartz
 * [OSI reference model -- The ISO model of architecture for open systems interconnection](http://www.cs.cmu.edu/~srini/15-744/papers/Zim80.pdf) - By Hubert Zimmermann
-* [Using Scala Will Make You Less Productive](http://grundlefleck.github.io/2013/06/23/using-scala-will-make-you-less-productive.html) - By Graham Allan
+* [Using Scala Will Make You Less Productive](https://grundlefleck.github.io/2013/06/23/using-scala-will-make-you-less-productive.html) - By Graham Allan
 * [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api) - By Vinay Sahni
 * [Complex information processing: a file structure for the complex, the changing and the indeterminate](http://rogerclarke.com/II/Nelson-1965.pdf) - By T.H. Nelson
 * [52 technologies in 2016](https://github.com/shekhargulati/52-technologies-in-2016) - By Shekhar Gulati
