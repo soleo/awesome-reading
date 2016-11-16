@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    awesome_bot (1.13.9)
+      parallel (~> 1.8)
+    parallel (1.9.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  awesome_bot
+
+BUNDLED WITH
+   1.13.2
