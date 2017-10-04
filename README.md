@@ -22,6 +22,7 @@ A collection of books or essays that I think it's worth to read or share with ot
 * [Exploring ES2016 and ES2017](http://exploringjs.com/es2016-es2017/) - By Axel Rauschmayer
 * [Big Ball of Mud](http://www.laputan.org/mud/) - By Brian Foote and Joseph Yoder
 * [Online Tracking: A 1-million-site Measurement and Analysis](http://randomwalker.info/publications/OpenWPM_1_million_site_tracking_measurement.pdf) - By Steven Englehardt and Arvind Narayanan
+* [How Not To Sort By Average Rating](http://www.evanmiller.org/how-not-to-sort-by-average-rating.html) - By Evan Miller
 
 ## Contribution
 
