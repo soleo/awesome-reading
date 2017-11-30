@@ -23,6 +23,7 @@ A collection of books or essays that I think it's worth to read or share with ot
 * [Big Ball of Mud](http://www.laputan.org/mud/) - By Brian Foote and Joseph Yoder
 * [Online Tracking: A 1-million-site Measurement and Analysis](http://randomwalker.info/publications/OpenWPM_1_million_site_tracking_measurement.pdf) - By Steven Englehardt and Arvind Narayanan
 * [How Not To Sort By Average Rating](http://www.evanmiller.org/how-not-to-sort-by-average-rating.html) - By Evan Miller
+* [Knowledge Vault: A Web-Scale Approach to Probabilistic Knowledge Fusion](http://www.cs.cmu.edu/~nlao/publication/2014.kdd.pdf) - By Xin Luna Dong
 
 ## Contribution
 
